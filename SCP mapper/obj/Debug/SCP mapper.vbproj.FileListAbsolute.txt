@@ -1,0 +1,13 @@
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\bin\Debug\SCP mapper.exe.config
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\bin\Debug\SCP mapper.exe
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\bin\Debug\SCP mapper.pdb
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\bin\Debug\SCP mapper.xml
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.vbproj.AssemblyReference.cache
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.vbproj.SuggestedBindingRedirects.cache
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP_mapper.Form1.resources
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP_mapper.Resources.resources
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.vbproj.GenerateResource.cache
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.vbproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.exe
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.xml
+C:\Users\terra\source\repos\SCP mapper\SCP mapper\obj\Debug\SCP mapper.pdb
